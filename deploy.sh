@@ -1,1 +1,2 @@
-i creat the deploy.sh 
+i creat the deploy.sh
+updated
